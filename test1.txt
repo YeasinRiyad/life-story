@@ -6,3 +6,4 @@ This will my eight commit.
 This will my nine commit.
 Logo alignment is fixed.
 I have some changing.
+Commit will be conflict.
